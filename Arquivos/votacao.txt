@@ -1,0 +1,9 @@
+Henro,10
+Maria,21
+Jossuares,43
+kleber,2
+Henro,27
+Kleber,31
+Henro,15
+Jossuares,2
+Maria,55
